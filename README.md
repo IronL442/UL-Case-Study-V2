@@ -10,6 +10,7 @@
         - Stemming
         - Tokenizing
         - Remove URL’s
+        - ...
     - Feature Engineering
     - Graph and Network Analysis (frindship network, graph csv) - Valentin
     - Clustering(k-means, DBSCAN etc.)
