@@ -5,11 +5,15 @@
 
 - Tasks: EVERYONE!!
     1. Preprocessing (missing values, duplicates, etc.) - alle Erik, Laurits
-        - Remove stop words
-        - Remove unimportant characters, what about #??
+        - Convert to lowercase ✅
+        - Remove URLs, mentions, and special characters, numbers (leave hashtags and emojis for now) ✅
+            - Emoji Bug ❗
+        - Remove stop words ✅
         - Stemming
         - Tokenizing
-        - Remove URL’s
+        - Split Time stamp ❔
+            - Date
+            - Time
         - ...
     - Feature Engineering
     - Graph and Network Analysis (frindship network, graph csv) - Valentin
