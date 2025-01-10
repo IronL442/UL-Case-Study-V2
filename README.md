@@ -7,14 +7,12 @@
     1. Preprocessing (missing values, duplicates, etc.) - alle Erik, Laurits
         - Convert to lowercase ✅
         - Remove URLs, mentions, and special characters, numbers (leave hashtags and emojis for now) ✅
-            - Emoji Bug ❗
+            - Emoji Bug ✅
         - Remove stop words ✅
-        - Stemming
-        - Tokenizing
-        - Split Time stamp ❔
-            - Date
-            - Time
-        - ...
+        - Perform stemming/lemmatization
+        - Tokenize text
+        - Remove Date from timestamp
+        - Remove short posts ❔ (< 3 words)
     - Feature Engineering
     - Graph and Network Analysis (frindship network, graph csv) - Valentin
     - Clustering(k-means, DBSCAN etc.)
