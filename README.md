@@ -5,6 +5,7 @@
 
 - Tasks: EVERYONE!!
     1. Preprocessing (missing values, duplicates, etc.) - alle Erik, Laurits
+        - Requires download of "en_core_web_lg" model
         - Convert to lowercase ✅
         - Remove URLs, mentions, and special characters, numbers (leave hashtags and emojis for now) ✅
             - Emoji Bug ✅
