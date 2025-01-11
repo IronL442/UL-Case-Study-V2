@@ -11,7 +11,7 @@
         - Remove stop words ✅
             - Requires download of "en_core_web_sm" model (small model is sufficient for removing stop words and lemmatization)
         - Perform stemming/lemmatization ✅
-        - NER 
+        - Named Entity Recognition NER
         - Remove Date from timestamp
         - Remove short posts ❔ (< 3 words)
     - Feature Engineering
