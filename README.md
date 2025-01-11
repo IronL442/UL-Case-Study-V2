@@ -23,6 +23,7 @@
             - Sentiment Detection - Laurits
             - Word Embeddings (maybe from Hugging Face?) - Isabell
     - Dimensionality Reduction
+    - Top Most Followed Users, Users with most Tweets
 
 - Visualization Ideas
     - Word Cloud with most common hastags or keywords
