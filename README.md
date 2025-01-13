@@ -14,6 +14,7 @@
           - [ ] Named Entity Recognition NER
           - [x] Remove Date from timestamp
           - [ ] Remove short posts ❔ (< 3 words)
+          - [ ] How to deal with non-english tweets ❔
       - [ ] Feature Engineering
       - [ ] Graph and Network Analysis (frindship network, graph csv) - Valentin
       - [ ] Clustering(k-means, DBSCAN etc.)
