@@ -15,7 +15,7 @@
           - [x] Remove Date from timestamp
           - [ ] Remove short posts ❔ (< 3 words)
           - [ ] How to deal with non-english tweets ❔
-          - [ ] Remove duplicate tweets 
+          - [x] Remove duplicate tweets 
       2. Feature Engineering
           - [ ] Word counts
           - [ ] Post frequency (identify spammers like @reginabarnes)
