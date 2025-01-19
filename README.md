@@ -15,18 +15,28 @@
           - [x] Remove Date from timestamp
           - [ ] Remove short posts ❔ (< 3 words)
           - [ ] How to deal with non-english tweets ❔
-      - [ ] Feature Engineering
-      - [ ] Graph and Network Analysis (frindship network, graph csv) - Valentin
-      - [ ] Clustering(k-means, DBSCAN etc.)
+          - [ ] Remove duplicate tweets 
+      2. Feature Engineering
+          - [ ] Word counts
+          - [ ] Post frequency (identify spammers like @reginabarnes)
           - [ ] User activity timestamp, post frequency (how often in a specific time) - Isabell
+      3. Graph and Network Analysis (frindship network, graph csv) - Valentin
+          - [ ] Clustering(k-means, DBSCAN etc.)
+              - [ ] k-means
+              - [ ] DBSCAN
           - [ ] Apply on the text
-              - [ ] Topics Laurits, Erik
-              - [ ] Sentiment Detection - Laurits
+              - [ ] Cluster by Topics Laurits, Erik
+              - [ ] Cluster by Sentiment - Laurits
+                    - [ ] Sentiment Analysis - Laurits
               - [ ] Word Embeddings (maybe from Hugging Face?) - Isabell
-      - [ ] Dimensionality Reduction
+      4. Dimensionality Reduction
+          - [ ] PCA
+          - [ ] t-SNE
       - [ ] Top Most Followed Users, Users with most Tweets
 
   - [ ] Visualization Ideas
       - [ ] Word Cloud with most common hastags or keywords
+      - [ ] Word active users
+      - [ ] Most spammed tweet
       - [ ] Heatmaps for user activity over time
       - [ ] Network Graph (visual graph with communities and central nodes highlighted)
