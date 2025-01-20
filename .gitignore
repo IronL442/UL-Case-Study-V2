@@ -105,4 +105,7 @@ dmypy.json
 
 # Output directory
 output/
-analysis/lid.176.bin
+
+# Models
+models/*
+!models/.gitkeep
