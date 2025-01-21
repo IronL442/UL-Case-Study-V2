@@ -109,3 +109,5 @@ output/
 # Models
 models/*
 !models/.gitkeep
+analysis/bertopic_model_large
+analysis/bertopic_model
