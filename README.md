@@ -18,7 +18,7 @@
       2. Feature Engineering
           - [ ] Word counts
           - [ ] Post frequency (identify spammers like @reginabarnes)
-          - [ ] User activity timestamp, post frequency (how often in a specific time) - Isabell
+          - [x] User activity timestamp, post frequency (how often in a specific time) - Isabell
       3. Graph and Network Analysis (frindship network, graph csv) - Valentin
           - [ ] Clustering(k-means, DBSCAN etc.)
               - [ ] k-means
