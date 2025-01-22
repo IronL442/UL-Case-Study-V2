@@ -11,9 +11,8 @@
           - [x] Remove stop words
               - [x] Requires download of "en_core_web_sm" model (small model is sufficient for removing stop words and lemmatization)
           - [x] Perform stemming/lemmatization
-          - [ ] Named Entity Recognition NER
+          - [x] Named Entity Recognition NER
           - [x] Remove Date from timestamp
-          - [ ] Remove short posts ❔ (< 3 words)
           - [x] Deal with non-english tweets
           - [x] Remove duplicate tweets 
       2. Feature Engineering

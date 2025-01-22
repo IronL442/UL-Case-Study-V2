@@ -104,10 +104,15 @@ venv.bak/
 dmypy.json
 
 # Output directory
-output/
+output/*
+!output/.gitkeep
 
 # Models
 models/*
 !models/.gitkeep
+
+
+
+# Only for testing!
 analysis/bertopic_model_large
 analysis/bertopic_model
