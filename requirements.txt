@@ -7,3 +7,4 @@ bertopic
 googletrans
 spacy
 lingua-language-detector
+nest-asyncio
