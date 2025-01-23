@@ -30,8 +30,11 @@
               - [ ] Word Embeddings (maybe from Hugging Face?) - Isabell
       4. Dimensionality Reduction
           - [ ] PCA
-          - [ ] t-SNE
+              - [ ] t-SNE
       - [ ] Top Most Followed Users, Users with most Tweets
+      5. Bot Detection
+      - [ ] Find a good model
+      - [ ] Check how many posts could be came from bots
 
   - [ ] Visualization Ideas
       - [ ] Word Cloud with most common hastags or keywords
@@ -39,3 +42,4 @@
       - [ ] Most spammed tweet
       - [ ] Heatmaps for user activity over time
       - [ ] Network Graph (visual graph with communities and central nodes highlighted)
+      - [ ] Unims Tweet -> paws for learning
