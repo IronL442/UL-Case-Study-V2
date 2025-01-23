@@ -3,8 +3,8 @@ huggingface-hub>=0.19.3,<1.0
 transformers==4.36.2
 sentence-transformers==2.2.2
 spacy-transformers
+spacy
 bertopic
 googletrans
-spacy
+emoji
 lingua-language-detector
-nest-asyncio
