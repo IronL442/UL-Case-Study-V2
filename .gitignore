@@ -107,7 +107,7 @@ dmypy.json
 output/*
 !output/.gitkeep
 
-# Models
+# Models directory
 models/*
 !models/.gitkeep
 
