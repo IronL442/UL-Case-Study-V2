@@ -111,6 +111,8 @@ output/*
 models/*
 !models/.gitkeep
 
+# Figures
+figures/
 
 
 # Only for testing!
